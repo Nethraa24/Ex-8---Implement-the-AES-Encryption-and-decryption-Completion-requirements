@@ -45,7 +45,7 @@ int main()
 {
 char plaintext[100], key[100], ciphertext[100], decryptedText[100];
 
-printf("Enter the plaintest: ");
+printf("Enter the plaintext: ");
 scanf("%s", plaintext);
 printf("Enter the key: ");
 scanf("%s", key);
@@ -61,7 +61,7 @@ return 0;
 }
 ```
 # Output:
-![ex8crypt](https://github.com/user-attachments/assets/96e31493-5f84-431e-8d41-19b512eb5c6b)
+![image](https://github.com/user-attachments/assets/363c5b67-5755-4910-a646-853a111c61f7)
 
 # Result:
 The program for AES algorithm is executed successfully.
